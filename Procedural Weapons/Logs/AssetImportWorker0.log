@@ -1,0 +1,670 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.27f1 (e759542391ea) revision 15161684'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'en' Physical Memory: 16326 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+D:\Applications\Unity\Hub\Editor\2020.3.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Users/Karan/UnityProjects/Procedural-Weapons-Unity3D/Procedural Weapons
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60429
+Successfully changed project path to: E:/Users/Karan/UnityProjects/Procedural-Weapons-Unity3D/Procedural Weapons
+E:/Users/Karan/UnityProjects/Procedural-Weapons-Unity3D/Procedural Weapons
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.45 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.27f1 (e759542391ea)
+[Subsystems] Discovering subsystems at path D:/Applications/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Users/Karan/UnityProjects/Procedural-Weapons-Unity3D/Procedural Weapons/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   30.0.15.1165
+Initialize mono
+Mono path[0] = 'D:/Applications/Unity/Hub/Editor/2020.3.27f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Applications/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Applications/Unity/Hub/Editor/2020.3.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56656
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Applications/Unity/Hub/Editor/2020.3.27f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/Applications/Unity/Hub/Editor/2020.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001081 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 24.92 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.437 seconds
+Domain Reload Profiling:
+	ReloadAssembly (437ms)
+		BeginReloadAssembly (45ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (338ms)
+			LoadAssemblies (44ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (122ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (122ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (25ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (60ms)
+				ProcessInitializeOnLoadMethodAttributes (21ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002431 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.770 seconds
+Domain Reload Profiling:
+	ReloadAssembly (771ms)
+		BeginReloadAssembly (128ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (16ms)
+		EndReloadAssembly (597ms)
+			LoadAssemblies (69ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (214ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (33ms)
+			SetupLoadedEditorAssemblies (217ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (148ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1503 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.0 MB.
+System memory in use after: 68.0 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1935.
+Total: 2.388500 ms (FindLiveObjects: 0.124600 ms CreateObjectMapping: 0.032900 ms MarkObjects: 2.178700 ms  DeleteObjects: 0.051700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/ProceduralWeaponObjects.obj
+  artifactKey: Guid(30a72b9a0f6d81c4c9fdac87e8e5d9e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProceduralWeaponObjects.obj using Guid(30a72b9a0f6d81c4c9fdac87e8e5d9e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b07c0b6728912ed550039ec9331ae858') in 0.113141 seconds 
+  Import took 0.115270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1205.461444 seconds.
+  path: Assets/ProceduralWeaponObjects.obj
+  artifactKey: Guid(30a72b9a0f6d81c4c9fdac87e8e5d9e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProceduralWeaponObjects.obj using Guid(30a72b9a0f6d81c4c9fdac87e8e5d9e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9df04bea24d9ae78879be0b5f04115c') in 0.253960 seconds 
+  Import took 0.256640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.054520 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.007684 seconds 
+  Import took 0.009834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.408689 seconds.
+  path: Assets/Assets
+  artifactKey: Guid(a735a1ea40f16954087dda1830c5380b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets using Guid(a735a1ea40f16954087dda1830c5380b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2b435d4ec18662a6d87b62592726bd') in 0.003038 seconds 
+  Import took 0.005470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 110.748892 seconds.
+  path: Assets/ProceduralWeaponObjects.obj
+  artifactKey: Guid(6f3c5f8a857bc4948b7053cb93c78ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProceduralWeaponObjects.obj using Guid(6f3c5f8a857bc4948b7053cb93c78ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6719e4957dfbcb9273ff41cc9c63d03') in 0.051330 seconds 
+  Import took 0.053624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.557108 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(e115ec9939e7b9b4587fa1d8f9f32ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(e115ec9939e7b9b4587fa1d8f9f32ff2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76b57571d4344a59bb7de1eedc4eae61') in 0.006413 seconds 
+  Import took 0.008590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130.621391 seconds.
+  path: Assets/ProceduralWeaponObjects.obj
+  artifactKey: Guid(6f3c5f8a857bc4948b7053cb93c78ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProceduralWeaponObjects.obj using Guid(6f3c5f8a857bc4948b7053cb93c78ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3183fdbb31df384e042b7b42a988c3ae') in 0.247301 seconds 
+  Import took 0.250165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.954905 seconds.
+  path: Assets/Prefabs
+  artifactKey: Guid(cc064e7002311c640a83c1b9da3e30a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs using Guid(cc064e7002311c640a83c1b9da3e30a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '479b7906aefdf5d6ecf9222d90496cab') in 0.006648 seconds 
+  Import took 0.009139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 334.364256 seconds.
+  path: Assets/Prefabs/Gun Parts
+  artifactKey: Guid(b5cfceda68e427d45a6b67d84fd5822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts using Guid(b5cfceda68e427d45a6b67d84fd5822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88d64909865f4a08c4e6648563883e8a') in 0.008068 seconds 
+  Import took 0.010560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.209414 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel
+  artifactKey: Guid(15f811b0065aaca4b9f602fc5b86893f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel using Guid(15f811b0065aaca4b9f602fc5b86893f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '626f99ba889ba27931a34e7f8abe403d') in 0.034036 seconds 
+  Import took 0.036534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.587262 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.004_Cube.027_None.prefab
+  artifactKey: Guid(5030ae41dec20cd4e93b3c506f094ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.004_Cube.027_None.prefab using Guid(5030ae41dec20cd4e93b3c506f094ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ead9979a71a4622318e356e294828a9a') in 0.015553 seconds 
+  Import took 0.017826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.293505 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.010_Cube.024_None.prefab
+  artifactKey: Guid(d57c6d639ff03814bbdc2ff14e55dae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.010_Cube.024_None.prefab using Guid(d57c6d639ff03814bbdc2ff14e55dae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942572f0deb8c7099cfeee71d1c47926') in 0.014927 seconds 
+  Import took 0.017843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.374178 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.012_Cube.026_None.prefab
+  artifactKey: Guid(f977131a21f6c284f94ebf2738f22f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.012_Cube.026_None.prefab using Guid(f977131a21f6c284f94ebf2738f22f20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efa018c62fb0ef63a3910d6d3ec672ee') in 0.009252 seconds 
+  Import took 0.011477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.823689 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.013_Cube.028_None.prefab
+  artifactKey: Guid(d43bc39b481dc794b890660a489bd988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.013_Cube.028_None.prefab using Guid(d43bc39b481dc794b890660a489bd988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b892042c9d9554086b6e62e30b71da15') in 0.010766 seconds 
+  Import took 0.014241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.534618 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.001_Cube.011_None.prefab
+  artifactKey: Guid(055b6cab8c909d2469396a2096d83c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.001_Cube.011_None.prefab using Guid(055b6cab8c909d2469396a2096d83c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09b96880795466ae5ba1f4b580f6a0a') in 0.009784 seconds 
+  Import took 0.012277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.440303 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.002_Cube.012_None.prefab
+  artifactKey: Guid(3e983df861f7ddf4ea8c84b872bce055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.002_Cube.012_None.prefab using Guid(3e983df861f7ddf4ea8c84b872bce055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc69cd48218e8254ff0dde74624c9b2') in 0.008970 seconds 
+  Import took 0.011731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.129687 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.003_Cube.013_None.prefab
+  artifactKey: Guid(6fa70d0d68a9e44429f04d53170be275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.003_Cube.013_None.prefab using Guid(6fa70d0d68a9e44429f04d53170be275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cffb9f5e51f1ff39082981af4ee9218a') in 0.011388 seconds 
+  Import took 0.014222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.120184 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.005_Cube.016_None.prefab
+  artifactKey: Guid(59f964e77a7634048b9abc27f85c29e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.005_Cube.016_None.prefab using Guid(59f964e77a7634048b9abc27f85c29e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fca38f5059e50f61e02accb9d696fb57') in 0.010336 seconds 
+  Import took 0.013179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.633996 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.006_Cube.018_None.prefab
+  artifactKey: Guid(c5b2a0e346b240540863350c4f2ba560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.006_Cube.018_None.prefab using Guid(c5b2a0e346b240540863350c4f2ba560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660aded8b46d6e0c3f7b02d0a4a94216') in 0.010696 seconds 
+  Import took 0.013647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.325412 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.007_Cube.019_None.prefab
+  artifactKey: Guid(9d1f201ccf2f83b4a9b5d53bb04aad9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.007_Cube.019_None.prefab using Guid(9d1f201ccf2f83b4a9b5d53bb04aad9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01127ae812138791b21fbf6ef9a84ea8') in 0.009413 seconds 
+  Import took 0.011758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.164593 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.008_Cube.020_None.prefab
+  artifactKey: Guid(12d39459c7bb8044babfe39859084f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.008_Cube.020_None.prefab using Guid(12d39459c7bb8044babfe39859084f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47fcae2ab05d85941fec9cfa812373b1') in 0.009616 seconds 
+  Import took 0.012119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.085851 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.009_Cube.022_None.prefab
+  artifactKey: Guid(9cd03702da452a6449e80fa6f90f7292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.009_Cube.022_None.prefab using Guid(9cd03702da452a6449e80fa6f90f7292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4873ad5f489ccff51b99ae6b3219647') in 0.009602 seconds 
+  Import took 0.012467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.855228 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.014_Cube.029_None.prefab
+  artifactKey: Guid(895caae37e2085744bd96896b4b1a34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.014_Cube.029_None.prefab using Guid(895caae37e2085744bd96896b4b1a34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e885307dee951360f50e6c5d0060298') in 0.010575 seconds 
+  Import took 0.012925 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.353330 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.015_Cube.030_None.prefab
+  artifactKey: Guid(6deb04a392af6f14488ca5fb60195b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.015_Cube.030_None.prefab using Guid(6deb04a392af6f14488ca5fb60195b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '129df718d7ab56ab11375286e693483c') in 0.009256 seconds 
+  Import took 0.011764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.353187 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.016_Cube.031_None.prefab
+  artifactKey: Guid(316e71ee6ca2caa4d8ea5d2bb55c6da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.016_Cube.031_None.prefab using Guid(316e71ee6ca2caa4d8ea5d2bb55c6da7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1abf7e6b83f511444af7545f1e7c6197') in 0.009476 seconds 
+  Import took 0.012068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.464419 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube.017_Cube.034_None.prefab
+  artifactKey: Guid(567d4d0076d86ce4595048277b1384cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube.017_Cube.034_None.prefab using Guid(567d4d0076d86ce4595048277b1384cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee0dfdec72e6569e7fa2f766f7025c41') in 0.010755 seconds 
+  Import took 0.013033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.734044 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cube_Cube.007_None.prefab
+  artifactKey: Guid(a777544d5274fd843aa12b89a3d64553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cube_Cube.007_None.prefab using Guid(a777544d5274fd843aa12b89a3d64553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2a31a0ec51da78d5c2bf1fed867526e') in 0.009962 seconds 
+  Import took 0.012274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.806252 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cylinder.001_Cylinder.001_None.prefab
+  artifactKey: Guid(417b995eec018b64fb45a8419c8d0350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cylinder.001_Cylinder.001_None.prefab using Guid(417b995eec018b64fb45a8419c8d0350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '945402812204f90c274b475b5065919c') in 0.010352 seconds 
+  Import took 0.012642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.389247 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cylinder.002_Cylinder.002_None.prefab
+  artifactKey: Guid(0dde09114796e684e89413bc898f86b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cylinder.002_Cylinder.002_None.prefab using Guid(0dde09114796e684e89413bc898f86b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1365921b88a5c446b96dac6a5310fc') in 0.009842 seconds 
+  Import took 0.012049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.778542 seconds.
+  path: Assets/Prefabs/Gun Parts/Barrel/Cylinder_Cylinder_None.prefab
+  artifactKey: Guid(6790efaba9f14344da1faf0bbf0cf115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Barrel/Cylinder_Cylinder_None.prefab using Guid(6790efaba9f14344da1faf0bbf0cf115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e39f44bde22721afdf7b197dd0b2b2e6') in 0.010146 seconds 
+  Import took 0.012841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.885625 seconds.
+  path: Assets/Prefabs/Gun Parts/Stock
+  artifactKey: Guid(3fd3c4115b253004b80f825b83088a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/Stock using Guid(3fd3c4115b253004b80f825b83088a68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9540b7f82992d4e8de45d163336d0dca') in 0.005194 seconds 
+  Import took 0.007342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.421232 seconds.
+  path: Assets/Prefabs/Gun Parts/magzine
+  artifactKey: Guid(05f0f245ec004124f9fd371ecab69cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/magzine using Guid(05f0f245ec004124f9fd371ecab69cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb62aa7729bc2e269b3fa6fee7fa24aa') in 0.006348 seconds 
+  Import took 0.009097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.674533 seconds.
+  path: Assets/Prefabs/Gun Parts/weapon Body
+  artifactKey: Guid(6e817c40f2ba1b94dbb9f133ba711628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/weapon Body using Guid(6e817c40f2ba1b94dbb9f133ba711628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd84594b08cf004c0fae9a4daa8d38355') in 0.005717 seconds 
+  Import took 0.008131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.973035 seconds.
+  path: Assets/Prefabs/Gun Parts/weaponBody
+  artifactKey: Guid(6e817c40f2ba1b94dbb9f133ba711628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts/weaponBody using Guid(6e817c40f2ba1b94dbb9f133ba711628) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd33f46ab5b2677748db9cb95bc88211') in 0.006263 seconds 
+  Import took 0.008512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 501.157139 seconds.
+  path: Assets/Assets/ProceduralWeaponObjects.obj
+  artifactKey: Guid(6f3c5f8a857bc4948b7053cb93c78ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/ProceduralWeaponObjects.obj using Guid(6f3c5f8a857bc4948b7053cb93c78ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0995a23a82bef9e7d9621fae4fc8a279') in 0.240594 seconds 
+  Import took 0.243480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 157.564032 seconds.
+  path: Assets/Prefabs/Gun Parts Objects
+  artifactKey: Guid(b5cfceda68e427d45a6b67d84fd5822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects using Guid(b5cfceda68e427d45a6b67d84fd5822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2889247ffa53f6c5e562a8ad75a29f') in 0.005498 seconds 
+  Import took 0.007913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 398.660801 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/Barrel/Cylinder.001_Cylinder.001_None.prefab
+  artifactKey: Guid(417b995eec018b64fb45a8419c8d0350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/Barrel/Cylinder.001_Cylinder.001_None.prefab using Guid(417b995eec018b64fb45a8419c8d0350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eab16b33b70e8e98cffb252266580351') in 0.003867 seconds 
+  Import took 0.006100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.008642 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baacc0ae8dabb85b723818a1a21bca85') in 0.006350 seconds 
+  Import took 0.008587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.351542 seconds.
+  path: Assets/ProceduralWeaponObjects.obj
+  artifactKey: Guid(f469b81c5e365864e988d26f696484be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProceduralWeaponObjects.obj using Guid(f469b81c5e365864e988d26f696484be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '039786e3f3c9e577b3e50079e072629e') in 0.211511 seconds 
+  Import took 0.214037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.050264 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/Barrel/Cube.010_Cube.024_None.prefab
+  artifactKey: Guid(9221c86db2b721c4b82f70933b408aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/Barrel/Cube.010_Cube.024_None.prefab using Guid(9221c86db2b721c4b82f70933b408aa1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c7e3f563de37f8c189229f987ec228') in 0.010217 seconds 
+  Import took 0.013086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.951428 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/Barrel/Cube.009_Cube.022_None.prefab
+  artifactKey: Guid(79c042a774b5caf4d9ae7e10f16a3d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/Barrel/Cube.009_Cube.022_None.prefab using Guid(79c042a774b5caf4d9ae7e10f16a3d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '242431adf6a8edae6a8241e62a4087d1') in 0.010382 seconds 
+  Import took 0.012799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.164334 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/Barrel/Cube.004_Cube.027_None.prefab
+  artifactKey: Guid(5623bf0145e3f40469416fa322b46e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/Barrel/Cube.004_Cube.027_None.prefab using Guid(5623bf0145e3f40469416fa322b46e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4678a6aff3242c90881ba38094147410') in 0.009246 seconds 
+  Import took 0.011613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.013641 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/Barrel/Cube.012_Cube.026_None.prefab
+  artifactKey: Guid(357ccbeea53923047a44b7e997ba1a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/Barrel/Cube.012_Cube.026_None.prefab using Guid(357ccbeea53923047a44b7e997ba1a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b675de62b67650adfa80e526342eaf36') in 0.009306 seconds 
+  Import took 0.011732 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.812697 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/magzine/Cube.015_Cube.030_None.prefab
+  artifactKey: Guid(6deb04a392af6f14488ca5fb60195b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/magzine/Cube.015_Cube.030_None.prefab using Guid(6deb04a392af6f14488ca5fb60195b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c72d26ae2f5e5a940382d0d53fe38dcf') in 0.010349 seconds 
+  Import took 0.013148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.168560 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/magzine/Cube.014_Cube.029_None.prefab
+  artifactKey: Guid(895caae37e2085744bd96896b4b1a34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/magzine/Cube.014_Cube.029_None.prefab using Guid(895caae37e2085744bd96896b4b1a34d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0938cb2d05a8c35e76d932217795af50') in 0.008011 seconds 
+  Import took 0.010456 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.929646 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/magzine/Cube.013_Cube.028_None.prefab
+  artifactKey: Guid(d43bc39b481dc794b890660a489bd988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/magzine/Cube.013_Cube.028_None.prefab using Guid(d43bc39b481dc794b890660a489bd988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c775d0d5cbb1702c9fa0464054d706e') in 0.009093 seconds 
+  Import took 0.011528 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.153319 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/weaponBody/Cube.003_Cube.013_None.prefab
+  artifactKey: Guid(6fa70d0d68a9e44429f04d53170be275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/weaponBody/Cube.003_Cube.013_None.prefab using Guid(6fa70d0d68a9e44429f04d53170be275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1f1664cedaec2bf30c597d19d6f6aea') in 0.014052 seconds 
+  Import took 0.016736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.489699 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/weaponBody/Cube_Cube.007_None.prefab
+  artifactKey: Guid(a777544d5274fd843aa12b89a3d64553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/weaponBody/Cube_Cube.007_None.prefab using Guid(a777544d5274fd843aa12b89a3d64553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f902f7abb2f158794be8c75e9cc37d') in 0.008994 seconds 
+  Import took 0.011523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.189225 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/weaponBody/Cube.001_Cube.011_None.prefab
+  artifactKey: Guid(055b6cab8c909d2469396a2096d83c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/weaponBody/Cube.001_Cube.011_None.prefab using Guid(055b6cab8c909d2469396a2096d83c67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1ffabb6ded49fd2f62afee7d767e6a8') in 0.017279 seconds 
+  Import took 0.019853 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.292290 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/weaponBody/Cube.002_Cube.012_None.prefab
+  artifactKey: Guid(3e983df861f7ddf4ea8c84b872bce055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/weaponBody/Cube.002_Cube.012_None.prefab using Guid(3e983df861f7ddf4ea8c84b872bce055) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b1ffa20e2c0975c48d61d06d767610') in 0.009672 seconds 
+  Import took 0.012021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.603014 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/Stock/Cube.005_Cube.016_None.prefab
+  artifactKey: Guid(59f964e77a7634048b9abc27f85c29e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/Stock/Cube.005_Cube.016_None.prefab using Guid(59f964e77a7634048b9abc27f85c29e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41005a9b1e7905793d8cf2579f27071a') in 0.009246 seconds 
+  Import took 0.012090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.183758 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/Stock/Cube.008_Cube.020_None.prefab
+  artifactKey: Guid(12d39459c7bb8044babfe39859084f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/Stock/Cube.008_Cube.020_None.prefab using Guid(12d39459c7bb8044babfe39859084f4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5608086f548c52c3e65a2d28190f8d94') in 0.009998 seconds 
+  Import took 0.012493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.781184 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/Stock/Cube.006_Cube.018_None.prefab
+  artifactKey: Guid(c5b2a0e346b240540863350c4f2ba560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/Stock/Cube.006_Cube.018_None.prefab using Guid(c5b2a0e346b240540863350c4f2ba560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b87ca2d4f8405cfa4baaff611c5f1cc') in 0.015103 seconds 
+  Import took 0.017372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.217095 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/Stock/Cube.007_Cube.019_None.prefab
+  artifactKey: Guid(9d1f201ccf2f83b4a9b5d53bb04aad9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/Stock/Cube.007_Cube.019_None.prefab using Guid(9d1f201ccf2f83b4a9b5d53bb04aad9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18ee97da0768b1aadcbd589e398d09c8') in 0.009341 seconds 
+  Import took 0.011811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.384082 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/scope
+  artifactKey: Guid(6d2c6030c3c68d54e95effdb26503e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/scope using Guid(6d2c6030c3c68d54e95effdb26503e8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fafa7f2f08957496545b21a760e2e0ef') in 0.005243 seconds 
+  Import took 0.007693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.829123 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/scope/Cylinder.001_Cylinder.001_None.prefab
+  artifactKey: Guid(c7b5ad1ec9f16ee4992fea480b5187c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/scope/Cylinder.001_Cylinder.001_None.prefab using Guid(c7b5ad1ec9f16ee4992fea480b5187c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38528ac5143eaf52b2aa9ef5b954abd9') in 0.009286 seconds 
+  Import took 0.011636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.735266 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/scope/Cylinder.002_Cylinder.002_None.prefab
+  artifactKey: Guid(1e4bd903976204346953404b3e24625b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/scope/Cylinder.002_Cylinder.002_None.prefab using Guid(1e4bd903976204346953404b3e24625b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23e8d4c0f42b670a1366b0171018d927') in 0.010259 seconds 
+  Import took 0.012667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.911015 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/scope/Cylinder_Cylinder_None.prefab
+  artifactKey: Guid(2df9230ff2b9aca408e368d92c704fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/scope/Cylinder_Cylinder_None.prefab using Guid(2df9230ff2b9aca408e368d92c704fa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc9ea432b9f042b9363631da5a92efd') in 0.009859 seconds 
+  Import took 0.012530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.812836 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/handle
+  artifactKey: Guid(60844b3c1fdfa904a9dd38416be691ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/handle using Guid(60844b3c1fdfa904a9dd38416be691ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07adc614b1b6155bdf373adfdc014346') in 0.005449 seconds 
+  Import took 0.007638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.547792 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/handle/Cube.016_Cube.031_None.prefab
+  artifactKey: Guid(b12afc5def1f85244ab32839fd6fc1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/handle/Cube.016_Cube.031_None.prefab using Guid(b12afc5def1f85244ab32839fd6fc1b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18be7b461c47b4560667832f620f2e75') in 0.010403 seconds 
+  Import took 0.013048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.328963 seconds.
+  path: Assets/Prefabs/Gun Parts Objects/handle/Cube.017_Cube.034_None.prefab
+  artifactKey: Guid(78a90c75efa051b43ba34e355538fa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Objects/handle/Cube.017_Cube.034_None.prefab using Guid(78a90c75efa051b43ba34e355538fa34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e01bef154a1525b2b7a390ae2194c77') in 0.011398 seconds 
+  Import took 0.013713 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.106040 seconds.
+  path: Assets/Prefabs/Gun Parts Prefab
+  artifactKey: Guid(b5cfceda68e427d45a6b67d84fd5822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Prefab using Guid(b5cfceda68e427d45a6b67d84fd5822a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d5648cf10771e867ace60c739dcb859') in 0.005741 seconds 
+  Import took 0.008099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.229763 seconds.
+  path: Assets/Prefabs/Gun Parts Prefab/arrel
+  artifactKey: Guid(15f811b0065aaca4b9f602fc5b86893f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Prefab/arrel using Guid(15f811b0065aaca4b9f602fc5b86893f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57dd9a206aee80218a98d106327fea98') in 0.005675 seconds 
+  Import took 0.008062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.447742 seconds.
+  path: Assets/Prefabs/Gun Parts Prefab/barrel
+  artifactKey: Guid(15f811b0065aaca4b9f602fc5b86893f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Prefab/barrel using Guid(15f811b0065aaca4b9f602fc5b86893f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8cea8e3a06bd78093ec878187f51f24') in 0.005467 seconds 
+  Import took 0.007795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.491084 seconds.
+  path: Assets/Prefabs/Gun Parts Prefab/gunSkins
+  artifactKey: Guid(1e2ebe32f750fda4990e709916f99c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Prefab/gunSkins using Guid(1e2ebe32f750fda4990e709916f99c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfa2d38153477267d95daaccdd3ba209') in 0.005983 seconds 
+  Import took 0.008473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.823523 seconds.
+  path: Assets/Prefabs/Gun Parts Prefab/gunSkinMateria
+  artifactKey: Guid(1e2ebe32f750fda4990e709916f99c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Prefab/gunSkinMateria using Guid(1e2ebe32f750fda4990e709916f99c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '924ac08fc59d8ac94c4dc0504a61ba19') in 0.005012 seconds 
+  Import took 0.007241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.975255 seconds.
+  path: Assets/Prefabs/Gun Parts Prefab/gunSkinMaterial
+  artifactKey: Guid(1e2ebe32f750fda4990e709916f99c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Gun Parts Prefab/gunSkinMaterial using Guid(1e2ebe32f750fda4990e709916f99c5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dd9777e39f4f4622bd1a2b36bb6607a') in 0.005320 seconds 
+  Import took 0.007487 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
